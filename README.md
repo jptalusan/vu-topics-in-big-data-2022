@@ -3,6 +3,7 @@
 ## Updates
 * Added OpenAI gym taxi example
 * Added Tensorflow, Keras timeseries forecasting examples
+* Added Osmnx example
 
 ## To follow
 * Must add one to one, many to one, one to many and many to many at least for RNNs
