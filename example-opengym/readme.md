@@ -13,3 +13,6 @@
     * Rendering the output to a gif
 * https://towardsdatascience.com/creating-a-custom-gym-environment-for-jupyter-notebooks-e17024474617
     * General information
+* Multi-arm bandit references:
+    * [1](https://colab.research.google.com/drive/1AgvnqbumrkPAFKI-Apt1SUtvbws4jVSS)
+    * [2](https://www.starai.io/course/lecture1/)
